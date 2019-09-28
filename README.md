@@ -1,2 +1,4 @@
 # podorozhnik-policy
-Policy documents
+Policy documents:
+* [Русский](policy-ru.md)
+* [English](policy-en.md)
